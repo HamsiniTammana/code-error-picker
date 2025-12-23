@@ -1,4 +1,4 @@
-openai.api_key = "AIzaSyDCvoyPHqapyMqASmFUIAFgH1hzWgu9pOU"
+openai.api_key = "AIzaSyBDuRoIuRmYgrcfg2vazG_V8xvIK1VIPOM"
 
 prompt = f"""
 Explain the following code error in simple English for a beginner.
